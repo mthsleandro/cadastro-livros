@@ -5,10 +5,7 @@ Android app for registering book informations, such as price, release date and c
 
 ## Languages used
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/XML-red" alt="XML" height="20">
-  <img src="https://img.shields.io/badge/Java-blue" alt="Java" height="20">
-</div>
+![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 ## Colors used
 
